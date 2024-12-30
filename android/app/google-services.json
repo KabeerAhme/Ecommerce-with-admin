@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663607029153",
+    "project_id": "crud-firebase-9b875",
+    "storage_bucket": "crud-firebase-9b875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663607029153:android:604babdb4717098a6aafe0",
+        "android_client_info": {
+          "package_name": "com.example.edpic_eccommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PTm44N_YjX1lP2PGSvHtJQc6AF_bDIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
